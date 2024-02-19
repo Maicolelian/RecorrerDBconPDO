@@ -1,0 +1,13 @@
+{
+    "name": "maico/reocorrer-base-de-datos",
+    "description": "recorrer base de datos",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maicol Elian",
+            "email": "elianmuepaz29@gmail.com"
+        }
+    ],
+    "require": {}
+}
